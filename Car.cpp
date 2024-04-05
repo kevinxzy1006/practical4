@@ -1,3 +1,7 @@
+#include <iostream>
+#include <ctime>
+#include <cmath>
+
 class Car : public Vehicle {
 public:
     Car() { foo = 1; }
